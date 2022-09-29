@@ -11,6 +11,7 @@ Crie duas páginas web, "home" e "contato", utilizando HTML5. A página home dev
 **Segundo Dia - CSS (Cascading Style Sheets)**
 
 Estilize as duas páginas criadas, home e contato, utilizando o CSS.
+
 ---------------------------------------------------------------------------------------------------------
 **Terceiro Dia - JavaScript**
 
