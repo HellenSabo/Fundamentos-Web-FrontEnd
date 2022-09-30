@@ -5,8 +5,44 @@
 
 .container {
 
+    font-size: 20px;
     display: flex;
     flex-flow: row;
     justify-content: center;
     align-items: center;
+   
+}
+
+.menu li {
+
+    display: inline;
+    padding: 15px;
+   
+
+}
+
+.menu li a {
+    text-decoration: none;
+    color: rgb(233, 52, 112);
+    font-size: 20px;
+}
+
+.menu li a:hover{
+
+    color: rgb(89, 225, 230);
+}
+
+.p30 {
+
+    padding: 15px;
+}
+
+.br-50 {
+
+    border-radius: 50%;
+}
+
+.wh {
+    width: 300px;
+    height: 350px;
 }
